@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: 11count
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,13 +8,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Complete'
+    - title: 'refined'
       url: '/'
-    - title: 'Raw'
+    - title: 'raw'
       url: '/blog/'
-    - title: 'Me'
+    - title: 'persons'
       url: '/about'
-    - title: 'Contact'
+    - title: 'reach out'
       url: '/contact'
 
 footer_settings:
