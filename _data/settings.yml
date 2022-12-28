@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: 11count
+  site_title: James Taverne
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,15 +12,15 @@ menu_settings:
       url: '/'
     - title: 'raw'
       url: '/blog/'
-    - title: 'persons'
-      url: '/about'
-    - title: 'reach out'
-      url: '/contact'
+#     - title: 'persons'
+#       url: '/about'
+#     - title: 'reach out'
+#       url: '/contact'
 
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: work and life.
 
 grid_settings:
   overlay_opacity: 0.7
